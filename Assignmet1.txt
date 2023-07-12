@@ -1,0 +1,79 @@
+
+
+##########################################################################################
+Q.1 <!DOCTYPE html> is it a tag of html? If not, what is it and why do we use it?
+Ans.1
+<!DOCTYPE html> is not a tag in HTML; it is a document type declaration. It is used to specify the version of HTML being used in a web page.
+
+The <!DOCTYPE html> declaration is required at the beginning of an HTML document to indicate that the document follows the HTML5 specification. It informs the browser about the HTML version, which helps the browser render the page correctly and apply appropriate standards and parsing rules.
+##########################################################################################
+
+Q.2  Explain Semantic tags in html? And why do we need it?
+
+Ans.2 
+
+Semantic tags in HTML are a set of elements that provide meaning and context to the structure and content of a web page. They are designed to convey the purpose and function of different sections or elements of a webpage.
+
+Here are some examples of semantic tags in HTML5:
+
+    <header>: Represents the introductory content or a container for a group of introductory content.
+    <nav>: Defines a section of navigation links.
+    <main>: Represents the main content of a document.
+    <section>: Defines a standalone section within a document.
+    <article>: Represents a self-contained composition, such as a blog post or a news article.
+    <aside>: Represents content that is tangentially related to the main content, such as sidebars or pull quotes.
+    <footer>: Represents the footer of a document or a section.
+
+##########################################################################################
+Q.3  Differentiate between HTML Tags and Elements?
+
+Ans 3. HTML tags are the markup syntax used to define the beginning and end of an HTML element, while HTML elements represent the structure and content of a web page. Tags define the boundaries of an element, and elements consist of opening and closing tags with content in between.
+
+##########################################################################################
+
+Q.4 Build Your Resume using HTML only
+Ans 4
+https://github.com/mfaizk/Placement_Assignment_MOHD_FAIZ_KHAN/blob/
+master/html/Resume.html
+##########################################################################################
+
+Q.6 What are some of the advantages of HTML5 over its previous versions?
+
+Ans.6 
+HTML5 introduced several advancements and features over its previous versions, offering numerous advantages for web development. Here are some key advantages of HTML5:
+
+    New Semantic Elements: HTML5 introduced semantic elements like <header>, <nav>, <article>, <footer>, etc. These elements provide better structure and meaning to the content, improving accessibility, search engine optimization (SEO), and overall document organization.
+
+    Enhanced Multimedia Support: HTML5 introduced built-in support for audio and video elements (<audio> and <video>). It eliminated the need for third-party plugins like Flash, providing a standardized and native way to embed multimedia content on web pages.
+
+    Canvas and SVG: HTML5 introduced the <canvas> element, which allows dynamic rendering of graphics and animations using JavaScript. Additionally, HTML5 added support for Scalable Vector Graphics (SVG), enabling the creation of high-quality, resolution-independent graphics within the web page.
+
+    Improved Form Controls: HTML5 introduced new form input types (<input type="date">, <input type="email">, etc.) and attributes (required, placeholder, etc.). These enhancements simplified form validation, improved user experience, and reduced the reliance on JavaScript for form handling.
+
+    Offline and Storage Capabilities: HTML5 introduced the Application Cache and Web Storage APIs. The Application Cache allowed web applications to work offline by caching resources, while Web Storage (localStorage and sessionStorage) provided an efficient way to store data on the client-side, reducing reliance on cookies.
+
+    Geolocation and Device Access: HTML5 added support for accessing the user's geolocation through the Geolocation API. It also introduced APIs for accessing device capabilities like the camera, microphone, and accelerometer, enabling web applications to provide location-based and device-specific functionality.
+
+    Improved Performance and Efficiency: HTML5 included various performance optimizations, such as native support for asynchronous script loading (async and defer attributes) and the ability to specify character encoding (<meta charset="UTF-8">) without requiring a separate declaration.
+
+##########################################################################################
+Q.7 Create a simple Music player using html only
+Ans 7. https://github.com/mfaizk/Placement_Assignment_MOHD_FAIZ_KHAN/blob/
+master/html/musicPlayer.html
+##########################################################################################
+
+Q.8  What is the difference between <figure> tag and <img> tag?
+Ans.8
+ the <img> tag is used specifically for embedding and displaying images, while the <figure> tag is used to group related content, including images, along with an optional caption. The <img> tag is standalone and used solely for images, whereas the <figure> tag serves a broader purpose of structuring and associating content within a document.
+##########################################################################################
+Q.9 What’s the difference between html tag and attribute and give example of some global attributes?
+Ans.9
+
+HTML tags define the structure and content of elements, while HTML attributes provide additional information or functionality to those elements. Attributes modify an element's behavior, appearance, or accessibility. Global attributes, such as class, id, style, title, tabindex, data-*, and aria-*, can be applied to most HTML elements to enhance their behavior and presentation.
+##########################################################################################
+Q.10  Write Html code so that it looks like the below image 
+Ans.10 https://github.com/mfaizk/Placement_Assignment_MOHD_FAIZ_KHAN/blob/
+master/html/Table.html
+##########################################################################################
+
+
